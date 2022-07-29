@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: "Tomorrow";
+  /* height: 100%; */
+  margin: 0;
+}
